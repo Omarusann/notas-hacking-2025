@@ -1,13 +1,16 @@
-
 # Reto
-
 
 
 ## Descripción
 
 
+## Pistas
+
+
 
 ## Solución
+
+### Solucion N
 
 
 
@@ -16,5 +19,5 @@
 
 
 ## Referencias
-
+- 
 

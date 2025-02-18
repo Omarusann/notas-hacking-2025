@@ -1,6 +1,3 @@
-# Reto
-
-
 ## Descripción
 
 
@@ -10,7 +7,6 @@
 
 ## Solución
 
-### Solucion N
 
 
 
